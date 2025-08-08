@@ -1,0 +1,22 @@
+{
+    "name": "Your App Name",
+    "short_name": "App",
+    "description": "Your App Description",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FFA500",
+    "theme_color": "#FFA500",
+    "icons": [
+      {
+        "src": "/images/iconOne.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/iconTwo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
